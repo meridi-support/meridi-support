@@ -31,4 +31,3 @@ for people tired of being nickel-and-dimed by big tech.
 - 🛒 [BOOTH Store (JP)](https://meridistore.booth.pm/)
 - ☕ [Buy Me a Coffee](https://www.buymeacoffee.com/meridius)
 - 📧 meridisupport@gmail.com
-- 
