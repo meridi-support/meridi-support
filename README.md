@@ -1,16 +1,34 @@
-## Hi there 👋
 
-<!--
-**meridi-support/meridi-support** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🐾 Meridi
 
-Here are some ideas to get you started:
+## MANIFESTO
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+We don't do subscriptions.
+We don't do forced ads.
+We don't track you.
+We don't hold your data hostage.
+
+**Pay once. Own it forever.**
+**Works offline. Works for you.**
+
+Built by one person with AI,
+for people tired of being nickel-and-dimed by big tech.
+
+🐟 Keep swimming.
+
+---
+
+## 🛠️ Products
+
+| Product | Description | Price |
+|---------|-------------|-------|
+| **[MeridiSync](https://meridius4.gumroad.com/l/meridisync)** | Offline Text Snippet Expander | $8 (one-time) |
+| **[MeridiMeet](https://meridi-support.github.io/meridimeet/)** | Multi-Timezone Scheduler | Free |
+
+## 🌐 Links
+
+- 🛒 [Gumroad Store](https://meridius4.gumroad.com/)
+- 🛒 [BOOTH Store (JP)](https://meridistore.booth.pm/)
+- ☕ [Buy Me a Coffee](https://www.buymeacoffee.com/meridius)
+- 📧 meridisupport@gmail.com
+- 
