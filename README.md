@@ -18,8 +18,8 @@ Built by one person with AI, for people tired of being nickel-and-dimed by big t
 
 | Store | Link |
 |-------|------|
-| 🌍 Gumroad (Global) | [Buy on Gumroad](https://meridistore.gumroad.com/) |
-| 🇯🇵 BOOTH (日本) | [Buy on BOOTH](https://meridius4.gumroad.com/) |
+| 🌍 Gumroad (Global) | [Buy on Gumroad](https://meridius4.gumroad.com/) |
+| 🇯🇵 BOOTH (日本) | [Buy on BOOTH](https://meridistore.booth.pm/) |
 
 > Pay once. No subscriptions. No ads. Yours forever.
 
