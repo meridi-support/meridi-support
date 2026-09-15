@@ -14,12 +14,12 @@ Built by one person with AI, for people tired of being nickel-and-dimed by big t
 
 ---
 
-### 🛒 Get MeridiSync
+### 🛒 Get Our Tools
 
-| Store | Link |
-|-------|------|
-| 🌍 Gumroad (Global) | [Buy on Gumroad](https://meridius4.gumroad.com/) |
-| 🇯🇵 BOOTH (日本) | [Buy on BOOTH](https://meridistore.booth.pm/) |
+| Tool | 🌐 Global | 🇯🇵 Japan |
+|------|-----------|-----------|
+| 🔧 MeridiSync — Type Less. Say More. ($8 / ¥1,000) | [Gumroad](https://meridius4.gumroad.com/l/meridisync) | [BOOTH](https://meridistore.booth.pm/items/8790105) |
+| 🌍 MeridiMeet — Timezone Scheduler (Free) | [Gumroad](https://meridius4.gumroad.com/l/meridimeet) | [BOOTH](https://meridistore.booth.pm/items/8814602) |
 
 > Pay once. No subscriptions. No ads. Yours forever.
 
