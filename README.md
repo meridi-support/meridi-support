@@ -20,6 +20,7 @@ Built by one person with AI, for people tired of being nickel-and-dimed by big t
 |------|--------|--------|------|
 | 🐾 MeridiSync — Type Less. Say More. | [Gumroad ($8)](https://meridius4.gumroad.com/l/meridisync) | [BOOTH (¥1,000)](https://meridistore.booth.pm/items/6512912) | [Try Free](https://meridi-support.github.io/meridisync-demo/) |
 | 🌐 MeridiMeet — Schedule Across Time Zones | Free | [BOOTH (Free)](https://meridistore.booth.pm/items/8814602) | [Launch](https://meridi-support.github.io/meridimeet/) |
+| 🐾🪄 MeridiLingo — Learn English Through Culture | Gumroad ($3) | BOOTH (¥500) | Coming Soon |
 
 > Pay once. No subscriptions. No ads. Yours forever.
 
