@@ -51,3 +51,9 @@ All tools share the same philosophy:
 *No Ads. No Subscriptions. Just Words.* 🐾
 
 **Meridi Brand © 2026**
+
+---
+
+<p align="center">
+  <img src="Meridi Halloween.jpg" alt="Meridi Cafe - Halloween" width="100%">
+</p>
