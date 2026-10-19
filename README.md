@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="MeridiCafe.jpg" alt="Meridi Cafe" width="100%">
+</p>
+
+# 🐾 Meridi
 
 # 🐾 Meridi
 
