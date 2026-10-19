@@ -24,3 +24,30 @@ We just build tools — and let you decide if they're worth it.
 
 ## 🐾 The Meridi Family
 
+🐾 MeridiSync → Text Efficiency [Launched] 🌐 MeridiMeet → Time Zone Scheduling [Launched] 🐾🪄 MeridiLingo → Language & Culture [Launched] 🗺️ MeridiAtlas → Map Intelligence [In Dev] 📔 MeridiDiary → Personal Journal [Planned]
+
+
+All tools share the same philosophy:
+**No Ads. No Subscriptions. Just Tools.** 🐾
+
+---
+
+## 🔗 Connect
+
+| Channel | Link |
+|---------|------|
+| 💬 Community | [Discussions (meridi-square)](https://github.com/meridi-support/meridi-square/discussions) |
+| ☕ Support Us | [Buy Me a Coffee](https://buymeacoffee.com/meridius) |
+| 📧 Contact | meridisupport@gmail.com |
+
+---
+
+## 🇯🇵 日本語でのご利用
+
+日本語での購入は [BOOTH Store](https://meridistore.booth.pm/) をご利用ください。
+
+---
+
+*No Ads. No Subscriptions. Just Words.* 🐾
+
+**Meridi Brand © 2026**
