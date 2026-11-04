@@ -76,6 +76,6 @@ All tools share the same philosophy:
 ---
 
 <p align="center">
-  <img src="Meridi Halloween.jpg" alt="Meridi Cafe - Halloween" width="100%">
+  <img src="fall.jpg" alt="Meridi Cafe - Halloween" width="100%">
 </p>
 
