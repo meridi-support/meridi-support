@@ -75,7 +75,6 @@ All tools share the same philosophy:
 
 ---
 
-<p align="center">
-  <img src="fall.jpg" alt="Meridi Cafe - Halloween" width="100%">
-</p>
+<img width="1680" height="640" alt="Fall" src="https://github.com/user-attachments/assets/bc8eb993-7b8c-4970-a758-3a83cf3edc25" />
+
 
