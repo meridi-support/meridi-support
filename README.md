@@ -21,7 +21,7 @@ We just build tools — and let you decide if they're worth it.
 | Page | Link |
 |------|------|
 | 🐾🪄 MeridiLingo | [meridibrand.com/lingo](https://meridibrand.com/lingo) |
-| 📅 MeridiMeet | [meridibrand.com/meet](https://meridibrand.com/meet) |
+| 🐾📅 MeridiMeet | [meridibrand.com/meet](https://meridibrand.com/meet) |
 
 ---
 
