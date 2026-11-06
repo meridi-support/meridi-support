@@ -30,11 +30,11 @@ We just build tools — and let you decide if they're worth it.
 | Tool | What It Does | Global | JP 🇯🇵 | Live Demo |
 |------|-------------|--------|--------|-----------|
 | 💻 **MeridiSync** — Type Less. Say More. | Offline text snippet expander | [Gumroad ($8)](https://meridius4.gumroad.com/l/meridisync) | [BOOTH (¥1,000)](https://meridistore.booth.pm/items/6340573) | [Try it](https://meridi-support.github.io/meridisync-demo) |
-| 📅 **MeridiMeet** — Schedule Across Time Zones | Visual timezone overlap finder | [Gumroad (Free)](https://meridius4.gumroad.com/l/meridimeet) | [BOOTH (Free)](https://meridistore.booth.pm/items/6340573) | [meridibrand.com/meet](https://meridibrand.com/meet) |
-| 🐾🪄 **MeridiLingo** — Language Evolution Explorer | 450 expressions across slang, movies & culture | [Gumroad (Free)](https://meridius4.gumroad.com/l/meridilingo) | [BOOTH (Free)](https://meridistore.booth.pm/items/8992102) | [meridibrand.com/lingo](https://meridibrand.com/lingo) |
+| 📅 **MeridiMeet** — Schedule Across Time Zones | Visual timezone overlap finder | [Gumroad (Free)](https://meridius4.gumroad.com/l/meridimeet) | [BOOTH (Free)](https://meridistore.booth.pm/items/8814602) | [meridibrand.com/meet](https://meridibrand.com/meet) |
+| 🐾🪄 **MeridiLingo** — Language Evolution Explorer | 560 expressions across slang, movies, AI prompts & culture | [Gumroad (Free)](https://meridius4.gumroad.com/l/meridilingo) | [BOOTH (Free)](https://meridistore.booth.pm/items/8992102) | [meridibrand.com/lingo](https://meridibrand.com/lingo) |
 | 🗺️ **MeridiAtlas** — GIS for the Rest of Us | Lightweight map intelligence tool | In Development | In Development | — |
 | 📔 **MeridiDiary** — Your Journey, Your Map | Personal travel & experience journal | Planned | Planned | — |
-| 🎮 **MeridiPlay** — Fun & Games Collection | Bingo, Roulette, Coin Toss & more | Coming Soon | Coming Soon | — |
+| 🎮 **MeridiPlay** — Fun & Games Collection | Bingo, Roulette, Coin Toss, Omikuji & more | Coming Soon | Coming Soon | — |
 
 ---
 
@@ -42,10 +42,10 @@ We just build tools — and let you decide if they're worth it.
 
 💻 MeridiSync → Text Efficiency [Launched]
 📅 MeridiMeet → Time Zone Scheduling [v2.0.0 — Firebase Realtime Sync]
-🐾🪄 MeridiLingo → Language & Culture [v1.1.1 — 450 Expressions]
+🐾🪄 MeridiLingo → Language & Culture [v1.2.0 — 560 Expressions / 31 Categories + AI Prompt Vocabulary]
 🗺️ MeridiAtlas → Map Intelligence [In Dev — 2027 Launch]
 📔 MeridiDiary → Personal Journal [Planned]
-🎮 MeridiPlay → Fun & Games [Coming Soon]
+🎮 MeridiPlay → Fun & Games [6 Modes Ready]
 
 All tools share the same philosophy:
 **No Ads. No Subscriptions. Just Tools.** 🐾
@@ -69,12 +69,10 @@ All tools share the same philosophy:
 
 ---
 
-*No Ads. No Subscriptions. Just Words.* 🐾
+*No Ads. No Subscriptions. Just Tools.* 🐾
 
 **Meridi Brand © 2026 — Since November 1st, 2026**
 
 ---
 
 <img width="1680" height="640" alt="Fall" src="https://github.com/user-attachments/assets/bc8eb993-7b8c-4970-a758-3a83cf3edc25" />
-
-
