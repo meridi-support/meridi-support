@@ -19,11 +19,12 @@ We just build tools — and let you decide if they're worth it.
 
 | Page | Link |
 |------|------|
+| 📅 MeridiMeet | [meridibrand.com/meet](https://meridibrand.com/meet) |
 | 🐾🪄 MeridiLingo | [meridibrand.com/lingo](https://meridibrand.com/lingo) |
-| 🐾📅 MeridiMeet | [meridibrand.com/meet](https://meridibrand.com/meet) |
 | 🌌 MeridiStars | [meridibrand.com/stars](https://meridibrand.com/stars) |
 | 🌊 MeridiDepths | [meridibrand.com/depths](https://meridibrand.com/depths) |
 | 🎮 MeridiPlay | [meridibrand.com/play](https://meridibrand.com/play) |
+| 🧮 MeridiConvert | [meridibrand.com/convert](https://meridibrand.com/convert) |
 
 ---
 
@@ -32,11 +33,13 @@ We just build tools — and let you decide if they're worth it.
 | Tool | What It Does | Global | JP 🇯🇵 | Live Demo |
 |------|-------------|--------|--------|-----------|
 | 📅 **MeridiMeet** — Schedule Across Time Zones | Visual timezone overlap finder | [Gumroad (Free)](https://meridius4.gumroad.com/l/meridimeet) | [BOOTH (Free)](https://meridistore.booth.pm/items/8814602) | [meridibrand.com/meet](https://meridibrand.com/meet) |
-| 🐾🪄 **MeridiLingo** — Language Evolution Explorer | 560 expressions across slang, movies, AI prompts & culture | [Gumroad (Free)](https://meridius4.gumroad.com/l/meridilingo) | [BOOTH (Free)](https://meridistore.booth.pm/items/8992102) | [meridibrand.com/lingo](https://meridibrand.com/lingo) |
+| 🐾🪄 **MeridiLingo** — Language Evolution Explorer | 760+ expressions & AI prompts — slang, movie lines, play-by-play calls, wrestling & culture | [Gumroad (Free)](https://meridius4.gumroad.com/l/meridilingo) | [BOOTH (Free)](https://meridistore.booth.pm/items/8992102) | [meridibrand.com/lingo](https://meridibrand.com/lingo) |
+| 💻 **MeridiSync** — Type Less. Say More. | Offline text snippet expander | [Gumroad (\$8)](https://meridius4.gumroad.com/l/meridisync) | [BOOTH (¥1,000)](https://meridistore.booth.pm/items/8790105) | [Try it](https://meridi-support.github.io/meridisync-demo) |
 | 🌌 **MeridiStars** — A Planetarium in Your Browser | 88 constellations, 9,000+ stars, 119 locations | Free | Free | [meridibrand.com/stars](https://meridibrand.com/stars) |
+| 🪨 **MeridiGround** — From the Sky to Earth's Core | Rock strata, fossils, the mantle — and up to the edge of space | Coming Soon | Coming Soon | — |
 | 🌊 **MeridiDepths** — Dive to the Deepest Ocean | 230+ sea creatures, shipwrecks & records across 11 deep places | Free | Free | [meridibrand.com/depths](https://meridibrand.com/depths) |
 | 🎮 **MeridiPlay** — Free Browser Games | 18 games: casino, fortune-telling, retro candy-shop machines & more | Free | Free | [meridibrand.com/play](https://meridibrand.com/play) |
-| 💻 **MeridiSync** — Type Less. Say More. | Offline text snippet expander | [Gumroad (\$8)](https://meridius4.gumroad.com/l/meridisync) | [BOOTH (¥1,000)](https://meridistore.booth.pm/items/8790105) | [Try it](https://meridi-support.github.io/meridisync-demo) |
+| 🧮 **MeridiConvert** — Measure, Convert, Calculate | Unit converter incl. traditional Japanese units, graph-paper drafting & handy calculators | Free | Free | [meridibrand.com/convert](https://meridibrand.com/convert) |
 | 🗺️ **MeridiAtlas** — GIS for the Rest of Us | Lightweight map intelligence tool | In Development | In Development | — |
 | 📔 **MeridiDiary** — Your Journey, Your Map | Personal travel & experience journal | Planned | Planned | — |
 
@@ -45,11 +48,13 @@ We just build tools — and let you decide if they're worth it.
 ## 🐾 The Meridi Family
 
 📅 MeridiMeet → Time Zone Scheduling [v2.0.1 — Firebase Realtime Sync]
-🐾🪄 MeridiLingo → Language & Culture [v1.2.0 — 560 Expressions + AI Prompt Vocabulary]
+🐾🪄 MeridiLingo → Language & Culture [v1.4.1 — 760+ Expressions & AI Prompts]
+💻 MeridiSync → Text Efficiency [Launched]
 🌌 MeridiStars → Planetarium [v1.0.0 — Launched Nov 10, 2026]
+🪨 MeridiGround → Sky & Earth Explorer [Coming Soon]
 🌊 MeridiDepths → Deep-Sea Explorer [v1.0.0 — 11 Deep Places, Launched Nov 12, 2026]
 🎮 MeridiPlay → Fun & Games [v1.0.0 — 18 Games, Launched Nov 11, 2026]
-💻 MeridiSync → Text Efficiency [Launched]
+🧮 MeridiConvert → Units & Calculators [v1.0.0 — Launched Nov 13, 2026]
 🗺️ MeridiAtlas → Map Intelligence [In Dev — 2027 Launch]
 📔 MeridiDiary → Personal Journal [Planned]
 
