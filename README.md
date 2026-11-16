@@ -26,6 +26,7 @@ We just build tools — and let you decide if they're worth it.
 | 🌊 MeridiDepths | [meridibrand.com/depths](https://meridibrand.com/depths) |
 | 🎮 MeridiPlay | [meridibrand.com/play](https://meridibrand.com/play) |
 | 🧮 MeridiConvert | [meridibrand.com/convert](https://meridibrand.com/convert) |
+| 🧰 Meridi Tools | [meridibrand.com/tools](https://meridibrand.com/tools) |
 
 ---
 
@@ -41,6 +42,7 @@ We just build tools — and let you decide if they're worth it.
 | 🌊 **MeridiDepths** — Dive to the Deepest Ocean | 230+ sea creatures, shipwrecks & records across 11 deep places | Free | Free | [meridibrand.com/depths](https://meridibrand.com/depths) |
 | 🎮 **MeridiPlay** — Free Browser Games | 18 games: casino, fortune-telling, retro candy-shop machines & more | Free | Free | [meridibrand.com/play](https://meridibrand.com/play) |
 | 🧮 **MeridiConvert** — Measure, Convert, Calculate | Unit converter incl. traditional Japanese units, graph-paper drafting & handy calculators | Free | Free | [meridibrand.com/convert](https://meridibrand.com/convert) |
+| 🧰 **Meridi Tools** — A Little Ad-free Toolbox | Timer & scoreboard, text cleaner, TRPG dice, direct QR codes, photo location remover — nothing is uploaded | Free | Free | [meridibrand.com/tools](https://meridibrand.com/tools) |
 | 🗺️ **MeridiAtlas** — GIS for the Rest of Us | Lightweight map intelligence tool | In Development | In Development | — |
 | 📔 **MeridiDiary** — Your Journey, Your Map | Personal travel & experience journal | Planned | Planned | — |
 
@@ -56,6 +58,7 @@ We just build tools — and let you decide if they're worth it.
 🌊 MeridiDepths → Deep-Sea Explorer [v1.0.0 — 11 Deep Places, Launched Nov 12, 2026]  
 🎮 MeridiPlay → Fun & Games [v1.0.0 — 18 Games, Launched Nov 11, 2026]  
 🧮 MeridiConvert → Units & Calculators [v1.0.0 — Launched Nov 13, 2026]  
+🧰 Meridi Tools → Everyday Toolbox [v1.0.0 — 5 Tools, Launched Nov 16, 2026]  
 🗺️ MeridiAtlas → Map Intelligence [In Dev — 2027 Launch]  
 📔 MeridiDiary → Personal Journal [Planned]
 
