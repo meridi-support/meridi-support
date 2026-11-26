@@ -36,8 +36,8 @@ We just build tools — and let you decide if they're worth it.
 
 | Tool | What It Does | Global | JP 🇯🇵 | Live Demo |
 |------|-------------|--------|--------|-----------|
-| 📅 **MeridiMeet** — Schedule Across Time Zones | Visual timezone overlap finder — see times in your own zone and add the best slot to your calendar | [Gumroad (Free)](https://meridius4.gumroad.com/l/meridimeet) | [BOOTH (Free)](https://meridistore.booth.pm/items/8814602) | [meridibrand.com/meet](https://meridibrand.com/meet) |
-| 🐾🪄 **MeridiLingo** — Language Evolution Explorer | 900+ expressions & AI prompts — slang, movie lines, travel English, play-by-play calls, wrestling & culture, with 💡 trivia on every card | [Gumroad (Free)](https://meridius4.gumroad.com/l/meridilingo) | [BOOTH (Free)](https://meridistore.booth.pm/items/8992102) | [meridibrand.com/lingo](https://meridibrand.com/lingo) |
+| 📅 **MeridiMeet** — Schedule Across Time Zones | Visual timezone overlap finder — see times in your own zone and add the best slot to your calendar | Free | Free | [meridibrand.com/meet](https://meridibrand.com/meet) |
+| 🐾🪄 **MeridiLingo** — Language Evolution Explorer | 900+ expressions & AI prompts — slang, movie lines, travel English, play-by-play calls, wrestling & culture, with 💡 trivia on every card | Free | Free | [meridibrand.com/lingo](https://meridibrand.com/lingo) |
 | 💻 **MeridiSync** — Type Less. Say More. | Offline text expander for Windows — type a short trigger, get your full text in any app | [Gumroad (&#36;8)](https://meridius4.gumroad.com/l/meridisync) | [BOOTH (¥1,000)](https://meridistore.booth.pm/items/8790105) | [meridibrand.com/sync](https://meridibrand.com/sync) |
 | 🌌 **MeridiStars** — A Planetarium in Your Browser | 88 constellations, 9,000+ stars, 150 deep-sky objects, camera mode, a journey to the black hole & 💥 the Big Bang to today | Free | Free | [meridibrand.com/stars](https://meridibrand.com/stars) |
 | ☁️ **MeridiSkies** — Sky & Weather Explorer | Clouds, lightning, aurora, foehn & sky colors — 11 hands-on tabs and a 79-entry guide | Free | Free | [meridibrand.com/skies](https://meridibrand.com/skies) |
@@ -55,7 +55,7 @@ We just build tools — and let you decide if they're worth it.
 
 📅 MeridiMeet → Time Zone Scheduling [v2.0.3 — Add to Calendar & Show My Time]  
 🐾🪄 MeridiLingo → Language & Culture [v1.5.0 — 900+ Expressions & Trivia Cards]  
-💻 MeridiSync → Text Efficiency [v1.0.2 — Faster & More Accurate]  
+💻 MeridiSync → Text Efficiency [v1.0.3 — Faster, More Accurate & a New Step Wizard]  
 🌌 MeridiStars → Planetarium [v1.2.0 — From the Big Bang to Today]  
 ☁️ MeridiSkies → Sky & Weather [v1.0.0 — 11 Tabs, Launched Nov 24, 2026]  
 🪨 MeridiGround → Sky & Earth Explorer [v1.0.0 — Launched Nov 13, 2026]  
@@ -93,8 +93,7 @@ All tools share the same philosophy:
 
 ## 🇯🇵 日本語でのご利用
 
-日本語での購入は [BOOTH Store](https://meridistore.booth.pm/) をご利用ください。
-
+MeridiSync（Windows 用・買い切り）の日本での購入は [BOOTH Store](https://meridistore.booth.pm/) をご利用ください。ほかの道具はすべて無料で、[meridibrand.com](https://meridibrand.com) からすぐに使えます。
 ---
 
 *No Ads. No Subscriptions. Just Tools.* 🐾
